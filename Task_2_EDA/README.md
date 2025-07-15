@@ -66,7 +66,7 @@ These findings can be used by HR teams to improve retention strategies, adjust w
 ## 📁 Files Included
 
 - `eda_analysis.ipynb` – Full analysis with visuals and insights
-- `WA_Fn-UseC_-HR-Employee-Attrition.csv` – Source dataset
+- `HR Analytics.csv` – Source dataset
 - `README.md` – Task overview and documentation (this file)
 
 ---
