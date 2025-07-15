@@ -18,7 +18,7 @@ The purpose of this task is to explore the IBM HR Analytics Employee Attrition d
 
 ## 📑 Dataset Summary
 
-- Dataset Name: `WA_Fn-UseC_-HR-Employee-Attrition.csv`
+- Dataset Name: `HR Analytics.csv`
 - Rows: 1,470 employees
 - Columns include: Age, Gender, Department, JobRole, OverTime, JobSatisfaction, MonthlyIncome, and Attrition status.
 
